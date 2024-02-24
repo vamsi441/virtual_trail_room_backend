@@ -18,4 +18,5 @@
 ==>step-14:Go to chrome url body type 127.0.0.1:8000 this to get the output
 **Note:1.please install the resources which are up to date**
 **2.Please keep the versions of all resources up to date**
+**Note:See the pdf (provided in file section) to execute codes locally each and every step is there in the pdf**
 
